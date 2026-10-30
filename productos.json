@@ -1,0 +1,34 @@
+[
+  {
+    "id": "S001",
+    "nombre": "Papas Tostadas Tosty",
+    "precio": 750.0,
+    "descripcion": "Snack de papa 115g",
+    "categoria": "Snacks",
+    "stock": 25
+  },
+  {
+    "id": "S002",
+    "nombre": "Platanitos Salados",
+    "precio": 600.0,
+    "descripcion": "Plátano tostado 100g",
+    "categoria": "Snacks",
+    "stock": 15
+  },
+  {
+    "id": "B001",
+    "nombre": "Agua Cristal 600ml",
+    "precio": 600.0,
+    "descripcion": "Agua embotellada",
+    "categoria": "Bebidas",
+    "stock": 50
+  },
+  {
+    "id": "C001",
+    "nombre": "Empanada de Carne",
+    "precio": 1200.0,
+    "descripcion": "Arreglada y caliente",
+    "categoria": "Comida",
+    "stock": 5
+  }
+]

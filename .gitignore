@@ -1,0 +1,11 @@
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+.idea/
+.vs/
+.DS_Store
+*.user
+*.o
+*.a
+*.dylib
+*.exe
